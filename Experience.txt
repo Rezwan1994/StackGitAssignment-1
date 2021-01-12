@@ -1,0 +1,3 @@
+I have almost 3 years of professional work experience and 1 year of academic experience on C#, ASP .Net MVC 4, Entity Framework,
+Rest API,Soap API, javascript, jQuery and AJAX and so on.I also solved various programming problems at online judges and participated
+in many programming contests.
